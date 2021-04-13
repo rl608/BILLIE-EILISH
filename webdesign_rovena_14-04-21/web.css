@@ -1,0 +1,3080 @@
+:root {
+	--web-view-ids: iPhone_12_Pro_Max__1,iPad_Pro_129in__1,Web_1280__1,Web_1366__1,iPad_Pro_105in__1,iPhone_6_7_8_SE__1,Samsung_Galaxy_S10__1,Web_1920__1,Web_1920__2;
+	--web-view-name: Web 1920 – 2;
+	--web-view-id: Web_1920__2;
+	--web-scale-to-fit: false;
+	--web-scale-to-fit-type: default;
+	--web-enable-scale-up: false;
+	--web-scale-on-resize: true;
+	--web-show-scale-controls: false;
+	--web-scale-on-double-click: false;
+	--web-center-horizontally: false;
+	--web-center-vertically: false;
+	--web-actual-size-on-double-click: false;
+	--web-navigate-on-keypress: false;
+	--web-refresh-for-changes: false;
+	--web-add-image-compare: false;
+	--web-show-by-media-query: true;
+	--web-application: false;
+	--web-show-navigation-controls: false;
+	--web-enable-deep-linking: true;
+	--web-is-overlay: false;
+}
+#iPhone_12_Pro_Max__1,
+#iPad_Pro_129in__1,
+#Web_1280__1,
+#Web_1366__1,
+#iPad_Pro_105in__1,
+#iPhone_6_7_8_SE__1,
+#Samsung_Galaxy_S10__1,
+#Web_1920__1,
+#Web_1920__2 {
+	display: none;
+}
+@media screen and (min-width: 833px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 12 Pro Max – 1;
+		--web-view-id: iPhone_12_Pro_Max__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_12_Pro_Max__1 {
+		position: absolute;
+		display: block;
+		width: 428px;
+		height: 7556px;
+		background-color: rgba(0,0,0,1);
+		overflow: hidden;
+		--web-view-name: iPhone 12 Pro Max – 1;
+		--web-view-id: iPhone_12_Pro_Max__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#webdesign_images_v7_rovena_14- {
+		filter: blur(16.49px);
+		position: absolute;
+		width: 675px;
+		height: 506px;
+		left: -65px;
+		top: 2179px;
+		overflow: visible;
+	}
+	#BILLIE__EILISH {
+		left: 63px;
+		top: 52px;
+		position: absolute;
+		overflow: visible;
+		width: 303px;
+		white-space: nowrap;
+		line-height: 60px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v3_rovena_14- {
+		position: absolute;
+		width: 461px;
+		height: 346px;
+		left: -16px;
+		top: 52px;
+		overflow: visible;
+	}
+	#webdesign_images_v5_rovena_14- {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 428px;
+		height: 321px;
+		left: 0px;
+		top: 52px;
+		overflow: visible;
+	}
+	#webdesign_images_v6_rovena_14- {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 428px;
+		height: 321px;
+		left: 0px;
+		top: 52px;
+		overflow: visible;
+	}
+	#webdesign_images_v7_rovena_14-_t {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 428px;
+		height: 321px;
+		left: 0px;
+		top: 52px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14 {
+		position: absolute;
+		width: 647.884px;
+		height: 530.266px;
+		left: -101.442px;
+		top: 37.867px;
+		overflow: visible;
+	}
+	#Billie_Eilish_On_Speaking_Up__ {
+		left: 120px;
+		top: 492px;
+		position: absolute;
+		overflow: visible;
+		width: 272px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v9_rovena_14 {
+		position: absolute;
+		width: 493px;
+		height: 370px;
+		left: 0px;
+		top: 492px;
+		overflow: visible;
+	}
+	#Group_1 {
+		position: absolute;
+		width: 716px;
+		height: 76px;
+		left: -144px;
+		top: 842px;
+		overflow: visible;
+	}
+	#Q_ {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 686px;
+		height: 76px;
+		line-height: 63px;
+		margin-top: -16.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(173,255,47,1);
+	}
+	# {
+		left: 17px;
+		top: 22px;
+		position: absolute;
+		overflow: visible;
+		width: 686px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -23.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#A {
+		left: 31px;
+		top: 23px;
+		position: absolute;
+		overflow: visible;
+		width: 686px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -16.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(173,255,47,1);
+	}
+	#Where_am_I_speaking_to__each_o {
+		left: 114px;
+		top: 971px;
+		position: absolute;
+		overflow: visible;
+		width: 189px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#How_have_you_been__keeping_bus {
+		left: 114px;
+		top: 1278px;
+		position: absolute;
+		overflow: visible;
+		width: 202px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#When_the_James_Bond_people__fi {
+		left: 114px;
+		top: 1618px;
+		position: absolute;
+		overflow: visible;
+		width: 218px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Did_your_interest_in_directing {
+		left: 114px;
+		top: 1926px;
+		position: absolute;
+		overflow: visible;
+		width: 228px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v2_rovena_14- {
+		position: absolute;
+		width: 664px;
+		height: 498px;
+		left: -118px;
+		top: 2200px;
+		overflow: visible;
+	}
+	#webdesign_images_v8_rovena_14- {
+		position: absolute;
+		width: 428px;
+		height: 321px;
+		left: 0px;
+		top: 2420px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_ {
+		position: absolute;
+		width: 647.884px;
+		height: 530.266px;
+		left: -109.942px;
+		top: 2249px;
+		overflow: visible;
+	}
+	#Now_that_youre_working_on__new {
+		left: 114px;
+		top: 2818px;
+		position: absolute;
+		overflow: visible;
+		width: 240px;
+		white-space: nowrap;
+		line-height: 19px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#So_after_Ocean_Eyes_happens__y {
+		left: 114px;
+		top: 3160px;
+		position: absolute;
+		overflow: visible;
+		width: 241px;
+		white-space: nowrap;
+		line-height: 17px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_giving_you_hope_right_ {
+		left: 118px;
+		top: 4318px;
+		position: absolute;
+		overflow: visible;
+		width: 232px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 13px;
+		color: rgba(255,255,255,1);
+	}
+	#Your_new_song_called_My__Futur {
+		left: 118px;
+		top: 4044px;
+		position: absolute;
+		overflow: visible;
+		width: 214px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.1px;
+	}
+	#What_do_you_do_to_preserve__yo {
+		left: 118px;
+		top: 3864px;
+		position: absolute;
+		overflow: visible;
+		width: 212px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v13_rovena_14 {
+		position: absolute;
+		width: 490px;
+		height: 368px;
+		left: -31px;
+		top: 3420px;
+		overflow: visible;
+	}
+	#I_had_a_dream__I_got_everythin {
+		left: 125px;
+		top: 3593px;
+		position: absolute;
+		overflow: visible;
+		width: 180px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(173,255,47,1);
+	}
+	#webdesign_images_v11_rovena_14 {
+		position: absolute;
+		width: 428px;
+		height: 321px;
+		left: 0px;
+		top: 4725px;
+		overflow: visible;
+	}
+	#webdesign_images_v12_rovena_14 {
+		position: absolute;
+		width: 506px;
+		height: 379px;
+		left: -99px;
+		top: 4875px;
+		overflow: visible;
+	}
+	#webdesign_images_v14_rovena_14 {
+		position: absolute;
+		width: 682px;
+		height: 512px;
+		left: 33px;
+		top: 4701px;
+		overflow: visible;
+	}
+	#And_also_young_people_A_lot_of {
+		left: 118px;
+		top: 5266px;
+		position: absolute;
+		overflow: visible;
+		width: 251px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 14px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v1_rovena_14- {
+		position: absolute;
+		width: 428px;
+		height: 321px;
+		left: 0px;
+		top: 5533px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_bk {
+		position: absolute;
+		width: 647.84px;
+		height: 530.02px;
+		left: -109.92px;
+		top: 5507px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_bl {
+		position: absolute;
+		width: 281.334px;
+		height: 230.168px;
+		left: 86.666px;
+		top: 5698.851px;
+		overflow: visible;
+	}
+}
+@media screen and (max-width: 1024px) {
+	.mediaViewInfo {
+		--web-view-name: iPad Pro 12.9in – 1;
+		--web-view-id: iPad_Pro_129in__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin right: auto;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPad_Pro_129in__1 {
+		position: absolute;
+		display: block;
+		width: 1024px;
+		height: 16451px;
+		background-color: rgba(0,0,0,1);
+		overflow: visible;
+		--web-view-name: iPad Pro 12.9in – 1;
+		--web-view-id: iPad_Pro_129in__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#webdesign_images_v7_rovena_14-_bo {
+		filter: blur(16.49px);
+		position: absolute;
+		width: 1441.263px;
+		height: 1080.947px;
+		left: -74.375px;
+		top: 5499.702px;
+		overflow: visible;
+	}
+	#BILLIE__EILISH_bp {
+		left: 155.5px;
+		top: 110.133px;
+		position: absolute;
+		overflow: visible;
+		width: 714px;
+		white-space: nowrap;
+		line-height: 130px;
+		margin-top: -30px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v3_rovena_14-_bq {
+		position: absolute;
+		width: 1220.533px;
+		height: 915.4px;
+		left: -98.267px;
+		top: 56.733px;
+		overflow: visible;
+	}
+	#webdesign_images_v6_rovena_14-_br {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1020.612px;
+		height: 757.959px;
+		left: 13.388px;
+		top: 98.133px;
+		overflow: visible;
+	}
+	#webdesign_images_v7_rovena_14-_bs {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1010.612px;
+		height: 757.959px;
+		left: 0px;
+		top: 109.133px;
+		overflow: visible;
+	}
+	#Billie_Eilish_On_Speaking_Up_S {
+		left: 239px;
+		top: 1115.133px;
+		position: absolute;
+		overflow: visible;
+		width: 617px;
+		white-space: nowrap;
+		line-height: 53px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v9_rovena_14_bu {
+		position: absolute;
+		width: 1205.612px;
+		height: 904.709px;
+		left: 0px;
+		top: 1151.924px;
+		overflow: visible;
+	}
+	#Group_2 {
+		position: absolute;
+		width: 752px;
+		height: 119px;
+		left: 136px;
+		top: 2056.633px;
+		overflow: visible;
+	}
+	#Q__bw {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 686px;
+		height: 76px;
+		line-height: 63px;
+		margin-top: -1.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(173,255,47,1);
+	}
+	#_bx {
+		left: 36px;
+		top: 47px;
+		position: absolute;
+		overflow: visible;
+		width: 686px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -16.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#A_by {
+		left: 67px;
+		top: 47px;
+		position: absolute;
+		overflow: visible;
+		width: 686px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -1.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(173,255,47,1);
+	}
+	#Where_am_I_speaking_to__each_o_bz {
+		left: 251px;
+		top: 2331px;
+		position: absolute;
+		overflow: visible;
+		width: 523px;
+		white-space: nowrap;
+		line-height: 49px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 39px;
+		color: rgba(255,255,255,1);
+	}
+	#How_have_you_been__keeping_bus_b {
+		left: 254px;
+		top: 3118px;
+		position: absolute;
+		overflow: visible;
+		width: 560px;
+		white-space: nowrap;
+		line-height: 49px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 39px;
+		color: rgba(255,255,255,1);
+	}
+	#When_the_James_Bond_people__fi_b {
+		left: 252px;
+		top: 4000px;
+		position: absolute;
+		overflow: visible;
+		width: 575px;
+		white-space: nowrap;
+		line-height: 47px;
+		margin-top: -5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(255,255,255,1);
+	}
+	#Did_your_interest_in_directing_b {
+		left: 252px;
+		top: 4802px;
+		position: absolute;
+		overflow: visible;
+		width: 552px;
+		white-space: nowrap;
+		line-height: 43px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 34px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v2_rovena_14-_b {
+		position: absolute;
+		width: 1418.476px;
+		height: 1063.857px;
+		left: -187.597px;
+		top: 5544.563px;
+		overflow: visible;
+	}
+	#webdesign_images_v8_rovena_14-_b {
+		position: absolute;
+		width: 914.319px;
+		height: 685.74px;
+		left: 64.482px;
+		top: 6014.541px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_b {
+		position: absolute;
+		width: 1383.955px;
+		height: 1132.259px;
+		left: -170.29px;
+		top: 5649.24px;
+		overflow: visible;
+	}
+	#Now_that_youre_working_on__new_b {
+		left: 252px;
+		top: 6849px;
+		position: absolute;
+		overflow: visible;
+		width: 581px;
+		white-space: nowrap;
+		line-height: 42px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 34px;
+		color: rgba(255,255,255,1);
+	}
+	#So_after_Ocean_Eyes_happens__y_b {
+		left: 252px;
+		top: 7607px;
+		position: absolute;
+		overflow: visible;
+		width: 555px;
+		white-space: nowrap;
+		line-height: 38px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_giving_you_hope_right__b {
+		left: 248px;
+		top: 10513px;
+		position: absolute;
+		overflow: visible;
+		width: 530px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -5.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 29px;
+		color: rgba(255,255,255,1);
+	}
+	#Your_new_song_called_My__Futur_b {
+		left: 252px;
+		top: 9823px;
+		position: absolute;
+		overflow: visible;
+		width: 564px;
+		white-space: nowrap;
+		line-height: 46px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.1px;
+	}
+	#What_do_you_do_to_preserve__yo_ca {
+		left: 252px;
+		top: 9317px;
+		position: absolute;
+		overflow: visible;
+		width: 558px;
+		white-space: nowrap;
+		line-height: 46px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 37px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v13_rovena_14_cb {
+		position: absolute;
+		width: 1439px;
+		height: 1079px;
+		left: -177.5px;
+		top: 8148.633px;
+		overflow: visible;
+	}
+	#I_had_a_dream__I_got_everythin_cc {
+		left: 299px;
+		top: 8637.133px;
+		position: absolute;
+		overflow: visible;
+		width: 427px;
+		white-space: nowrap;
+		line-height: 45px;
+		margin-top: -1.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 42px;
+		color: rgba(173,255,47,1);
+	}
+	#webdesign_images_v11_rovena_14_cd {
+		position: absolute;
+		width: 1029px;
+		height: 772px;
+		left: -2px;
+		top: 11392px;
+		overflow: visible;
+	}
+	#webdesign_images_v12_rovena_14_ce {
+		position: absolute;
+		width: 1216px;
+		height: 912px;
+		left: -227px;
+		top: 11778px;
+		overflow: visible;
+	}
+	#webdesign_images_v14_rovena_14_cf {
+		position: absolute;
+		width: 1639px;
+		height: 1230px;
+		left: -206px;
+		top: 11328px;
+		overflow: visible;
+	}
+	#And_also_young_people_A_lot_of_cg {
+		left: 252px;
+		top: 12773px;
+		position: absolute;
+		overflow: visible;
+		width: 573px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 32px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v1_rovena_14-_ch {
+		position: absolute;
+		width: 1024px;
+		height: 768px;
+		left: 0px;
+		top: 13534.217px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_ci {
+		position: absolute;
+		width: 1443.849px;
+		height: 1181.049px;
+		left: -167.656px;
+		top: 13593.967px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_cj {
+		position: absolute;
+		width: 792.743px;
+		height: 648.99px;
+		left: 231.257px;
+		top: 13887.632px;
+		overflow: visible;
+	}
+	#webdesign_images_v5_rovena_14-_ck {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1039.612px;
+		height: 779.959px;
+		left: 0px;
+		top: 92.133px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_cl {
+		position: absolute;
+		width: 1454.943px;
+		height: 1190.337px;
+		left: -207.666px;
+		top: 92.133px;
+		overflow: visible;
+	}
+}
+.button{
+	background-color: yellowgreen;
+	font-size: 14px;
+	cursor: pointer;
+	border-radius: 1px;
+	transition-duration: 0.4s;
+	justify-content: left;
+padding: 2px 10px;
+	border: none;
+}
+
+.btn{
+	background-color: black;
+	color: yellowgreen;
+	
+}
+
+.btn:hover{
+	background-color: #DBFF72;
+color: black;
+}
+
+@media screen and   (min-width : 1024px ) {
+	.mediaViewInfo {
+		--web-view-name: Web 1280 – 1;
+		--web-view-id: Web_1280__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin right: auto;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1280__1 {
+		position: absolute;
+		display: block;
+		width: 1280px;
+		height: 14965px;
+		background-color: rgba(0,0,0,1);
+		overflow: hidden;
+		--web-view-name: Web 1280 – 1;
+		--web-view-id: Web_1280__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#BILLIE__EILISH_co {
+		left: 315.5px;
+		top: 76.653px;
+		position: absolute;
+		overflow: visible;
+		width: 650px;
+		white-space: nowrap;
+		line-height: 160px;
+		margin-top: -40px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 80px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v3_rovena_14-_cp {
+		position: absolute;
+		width: 970.266px;
+		height: 727.7px;
+		left: 154.867px;
+		top: 107.4px;
+		overflow: visible;
+	}
+	#webdesign_images_v7_rovena_14-_cq {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1010.612px;
+		height: 757.959px;
+		left: -22.612px;
+		top: 40px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_cr {
+		position: absolute;
+		width: 1855.375px;
+		height: 1518.575px;
+		left: -287.687px;
+		top: -163.687px;
+		overflow: visible;
+	}
+	#webdesign_images_v5_rovena_14-_cs {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1039.612px;
+		height: 779.959px;
+		left: 240.388px;
+		top: 29px;
+		overflow: visible;
+	}
+	#webdesign_images_v6_rovena_14-_ct {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1010.612px;
+		height: 757.959px;
+		left: 269.388px;
+		top: 40px;
+		overflow: visible;
+	}
+	#Billie_Eilish_On_Speaking_Up___cu {
+		left: 180.5px;
+		top: 1188.388px;
+		position: absolute;
+		overflow: visible;
+		width: 920px;
+		white-space: nowrap;
+		line-height: 66px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v7_rovena_14-_cv {
+		filter: blur(16.49px);
+		position: absolute;
+		width: 1441.263px;
+		height: 1080.947px;
+		left: -64.943px;
+		top: 3515px;
+		overflow: visible;
+	}
+	#webdesign_images_v9_rovena_14_cw {
+		position: absolute;
+		width: 1407.611px;
+		height: 1055.709px;
+		left: 0px;
+		top: 1216.388px;
+		overflow: visible;
+	}
+	#Group_3 {
+		position: absolute;
+		width: 772px;
+		height: 163.5px;
+		left: 254px;
+		top: 2318.663px;
+		overflow: visible;
+	}
+	#Q__cy {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 686px;
+		height: 76px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 72px;
+		color: rgba(173,255,47,1);
+	}
+	#_cz {
+		left: 50px;
+		top: 60px;
+		position: absolute;
+		overflow: visible;
+		width: 686px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -6.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+	}
+	#A_c {
+		left: 87px;
+		top: 76.5px;
+		position: absolute;
+		overflow: visible;
+		width: 686px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 72px;
+		color: rgba(173,255,47,1);
+	}
+	#Where_am_I_speaking_to__each_o_c {
+		left: 223px;
+		top: 2597px;
+		position: absolute;
+		overflow: visible;
+		width: 322px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#How_have_you_been__keeping_bus_c {
+		left: 733px;
+		top: 2597px;
+		position: absolute;
+		overflow: visible;
+		width: 345px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#When_the_James_Bond_people__fi_c {
+		left: 223px;
+		top: 3148px;
+		position: absolute;
+		overflow: visible;
+		width: 373px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Did_your_interest_in__directin {
+		left: 733px;
+		top: 3148px;
+		position: absolute;
+		overflow: visible;
+		width: 355px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v2_rovena_14-_c {
+		position: absolute;
+		width: 1418.477px;
+		height: 1063.857px;
+		left: -114.238px;
+		top: 3674px;
+		overflow: visible;
+	}
+	#webdesign_images_v8_rovena_14-_c {
+		position: absolute;
+		width: 914.319px;
+		height: 685.739px;
+		left: 462px;
+		top: 3985.66px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_c {
+		position: absolute;
+		width: 1693.851px;
+		height: 1385.374px;
+		left: -206.925px;
+		top: 3674px;
+		overflow: visible;
+	}
+	#Now_that_youre_working_on_new_ {
+		left: 223px;
+		top: 4925.03px;
+		position: absolute;
+		overflow: visible;
+		width: 335px;
+		height: 734px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#So_after_Ocean_Eyes_happens_yo {
+		left: 733px;
+		top: 4925.03px;
+		position: absolute;
+		overflow: visible;
+		width: 341px;
+		height: 792px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_giving_you_hope_right__da {
+		left: 223px;
+		top: 7237.663px;
+		position: absolute;
+		overflow: visible;
+		width: 835px;
+		height: 548px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Your_new_song_called_My_Future {
+		left: 733px;
+		top: 6774.663px;
+		position: absolute;
+		overflow: visible;
+		width: 364px;
+		height: 463px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.1px;
+	}
+	#What_do_you_do_to_preserve_you {
+		left: 223px;
+		top: 6774.663px;
+		position: absolute;
+		overflow: visible;
+		width: 341px;
+		height: 324px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v13_rovena_14_dd {
+		position: absolute;
+		width: 1852px;
+		height: 1389px;
+		left: -255.5px;
+		top: 5385.663px;
+		overflow: visible;
+	}
+	#I_had_a_dream__I_got_everythin_de {
+		left: 350.5px;
+		top: 5999.163px;
+		position: absolute;
+		overflow: visible;
+		width: 580px;
+		height: 273px;
+		line-height: 64px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(173,255,47,1);
+	}
+	#webdesign_images_v11_rovena_14_df {
+		position: absolute;
+		width: 1280px;
+		height: 960px;
+		left: -13px;
+		top: 7785.663px;
+		overflow: visible;
+	}
+	#webdesign_images_v12_rovena_14_dg {
+		position: absolute;
+		width: 1456px;
+		height: 1092px;
+		left: -327px;
+		top: 8199.663px;
+		overflow: visible;
+	}
+	#webdesign_images_v14_rovena_14_dh {
+		position: absolute;
+		width: 1899px;
+		height: 1424px;
+		left: -292px;
+		top: 7955.546px;
+		overflow: visible;
+	}
+	#And_also_young_people_A_lot_of_di {
+		left: 226.5px;
+		top: 9379.546px;
+		position: absolute;
+		overflow: visible;
+		width: 828px;
+		height: 395px;
+		line-height: 31px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v1_rovena_14-_dj {
+		position: absolute;
+		width: 1280px;
+		height: 960px;
+		left: 0px;
+		top: 9577.046px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_dk {
+		position: absolute;
+		width: 1795.218px;
+		height: 1469.147px;
+		left: -334.608px;
+		top: 9618.533px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_dl {
+		position: absolute;
+		width: 1292.282px;
+		height: 1057.68px;
+		left: 138px;
+		top: 9824.268px;
+		overflow: visible;
+	}
+}
+@media screen and (max-width: 1920x) {
+	.mediaViewInfo {
+		--web-view-name: Web 1366 – 1;
+		--web-view-id: Web_1366__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Web_1366__1 {
+		position: absolute;
+		display: block;
+		width: 1366px;
+		height: 14965px;
+		background-color: rgba(0,0,0,1);
+		overflow: hidden;
+		--web-view-name: Web 1366 – 1;
+		--web-view-id: Web_1366__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#BILLIE__EILISH_do {
+		left: 364px;
+		top: 85.236px;
+		position: absolute;
+		overflow: visible;
+		width: 639px;
+		white-space: nowrap;
+		line-height: 150px;
+		margin-top: -35px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 80px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v3_rovena_14-_dp {
+		position: absolute;
+		width: 954.027px;
+		height: 715.521px;
+		left: 205.922px;
+		top: 111.468px;
+		overflow: visible;
+	}
+	#webdesign_images_v7_rovena_14-_dq {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1135px;
+		height: 851.25px;
+		left: 0px;
+		top: -87.219px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_dr {
+		position: absolute;
+		width: 1886.637px;
+		height: 1543.519px;
+		left: -284.246px;
+		top: -206.167px;
+		overflow: visible;
+	}
+	#webdesign_images_v5_rovena_14-_ds {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1075.988px;
+		height: 806.991px;
+		left: 290.012px;
+		top: -5.951px;
+		overflow: visible;
+	}
+	#webdesign_images_v6_rovena_14-_dt {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 1047.473px;
+		height: 785.604px;
+		left: 318.527px;
+		top: 0px;
+		overflow: visible;
+	}
+	#Billie_Eilish_On_Speaking_Up___du {
+		left: 211.025px;
+		top: 1199.352px;
+		position: absolute;
+		overflow: visible;
+		width: 953px;
+		white-space: nowrap;
+		line-height: 66px;
+		margin-top: -3px;
+		text-align: center;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v7_rovena_14-_dv {
+		filter: blur(16.49px);
+		position: absolute;
+		width: 1493.155px;
+		height: 1119.866px;
+		left: -43.256px;
+		top: 3609.733px;
+		overflow: visible;
+	}
+	#webdesign_images_v9_rovena_14_dw {
+		position: absolute;
+		width: 1458.292px;
+		height: 1093.719px;
+		left: 24.026px;
+		top: 1228.36px;
+		overflow: visible;
+	}
+	#Group_4 {
+		position: absolute;
+		width: 800.132px;
+		height: 166.254px;
+		left: 287.172px;
+		top: 2370.323px;
+		overflow: visible;
+	}
+	#Q__dy {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 710.663px;
+		height: 78.73635864257812px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 72px;
+		color: rgba(173,255,47,1);
+	}
+	#_dz {
+		left: 51.8px;
+		top: 62.16px;
+		position: absolute;
+		overflow: visible;
+		width: 711px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -6.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 50px;
+		color: rgba(255,255,255,1);
+	}
+	#A_d {
+		left: 90.132px;
+		top: 79.254px;
+		position: absolute;
+		overflow: visible;
+		width: 711px;
+		white-space: nowrap;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 72px;
+		color: rgba(173,255,47,1);
+	}
+	#Where_am_I_speaking_to__each_o_d {
+		left: 255.056px;
+		top: 2658.681px;
+		position: absolute;
+		overflow: visible;
+		width: 322px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#How_have_you_been__keeping_bus_d {
+		left: 783.418px;
+		top: 2658.681px;
+		position: absolute;
+		overflow: visible;
+		width: 345px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#When_the_James_Bond_people__fi_d {
+		left: 255.056px;
+		top: 3229.52px;
+		position: absolute;
+		overflow: visible;
+		width: 373px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Did_your_interest_in__directin_d {
+		left: 783.418px;
+		top: 3229.52px;
+		position: absolute;
+		overflow: visible;
+		width: 355px;
+		white-space: nowrap;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v2_rovena_14-_d {
+		position: absolute;
+		width: 1469.548px;
+		height: 1102.161px;
+		left: -94.325px;
+		top: 3774.458px;
+		overflow: visible;
+	}
+	#webdesign_images_v8_rovena_14-_d {
+		position: absolute;
+		width: 947.239px;
+		height: 710.429px;
+		left: 502.66px;
+		top: 4097.339px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_d {
+		position: absolute;
+		width: 1754.157px;
+		height: 1435.134px;
+		left: -190.349px;
+		top: 3774.458px;
+		overflow: visible;
+	}
+	#Now_that_youre_working_on_new__d {
+		left: 255.056px;
+		top: 5070.531px;
+		position: absolute;
+		overflow: visible;
+		width: 347.026px;
+		height: 760.4274291992188px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#So_after_Ocean_Eyes_happens_yo_d {
+		left: 783.418px;
+		top: 5070.531px;
+		position: absolute;
+		overflow: visible;
+		width: 353.242px;
+		height: 820.5156860351562px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_giving_you_hope_right__ea {
+		left: 255.056px;
+		top: 7466.43px;
+		position: absolute;
+		overflow: visible;
+		width: 865.028px;
+		height: 567.7305908203125px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#Your_new_song_called_My_Future_eb {
+		left: 783.418px;
+		top: 6986.759px;
+		position: absolute;
+		overflow: visible;
+		width: 377.07px;
+		height: 479.670166015625px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.1px;
+	}
+	#What_do_you_do_to_preserve_you_ec {
+		left: 255.056px;
+		top: 6986.759px;
+		position: absolute;
+		overflow: visible;
+		width: 353.242px;
+		height: 335.66552734375px;
+		line-height: 32px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v13_rovena_14_ed {
+		position: absolute;
+		width: 1918.681px;
+		height: 1439.011px;
+		left: -240.673px;
+		top: 5547.749px;
+		overflow: visible;
+	}
+	#I_had_a_dream__I_got_everythin_ee {
+		left: 387.146px;
+		top: 6183.338px;
+		position: absolute;
+		overflow: visible;
+		width: 600.847px;
+		height: 282.82928466796875px;
+		line-height: 64px;
+		margin-top: -2px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(173,255,47,1);
+	}
+	#webdesign_images_v11_rovena_14_ef {
+		position: absolute;
+		width: 1326.086px;
+		height: 994.564px;
+		left: 10.559px;
+		top: 8034.16px;
+		overflow: visible;
+	}
+	#webdesign_images_v12_rovena_14_eg {
+		position: absolute;
+		width: 1508.423px;
+		height: 1131.317px;
+		left: -314.747px;
+		top: 8463.066px;
+		overflow: visible;
+	}
+	#webdesign_images_v14_rovena_14_eh {
+		position: absolute;
+		width: 1967.027px;
+		height: 1475.271px;
+		left: -278.487px;
+		top: 8210.159px;
+		overflow: visible;
+	}
+	#And_also_young_people_A_lot_of_ei {
+		left: 258.682px;
+		top: 9685.431px;
+		position: absolute;
+		overflow: visible;
+		width: 857.776px;
+		height: 409.22186279296875px;
+		line-height: 31px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 24px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v1_rovena_14-_ej {
+		position: absolute;
+		width: 1326.086px;
+		height: 994.564px;
+		left: 31.819px;
+		top: 9890.041px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_ek {
+		position: absolute;
+		width: 1859.764px;
+		height: 1521.534px;
+		left: -314.746px;
+		top: 9933.532px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_el {
+		position: absolute;
+		width: 1338.721px;
+		height: 1095.252px;
+		left: 174.879px;
+		top: 10146.164px;
+		overflow: visible;
+	}
+}
+@media screen and (max-width: 1023px) {
+	.mediaViewInfo {
+		--web-view-name: iPad Pro 10.5in – 1;
+		--web-view-id: iPad_Pro_105in__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPad_Pro_105in__1 {
+		position: absolute;
+		display: block;
+		width: 834px;
+		height: 16451px;
+		background-color: rgba(0,0,0,1);
+		overflow: hidden;
+		--web-view-name: iPad Pro 10.5in – 1;
+		--web-view-id: iPad_Pro_105in__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#webdesign_images_v7_rovena_14-_eo {
+		filter: blur(16.49px);
+		position: absolute;
+		width: 1179.593px;
+		height: 884.695px;
+		left: -62.224px;
+		top: 4454.767px;
+		overflow: visible;
+	}
+	#BILLIE__EILISH_ep {
+		left: 125.916px;
+		top: 43.705px;
+		position: absolute;
+		overflow: visible;
+		width: 585px;
+		white-space: nowrap;
+		line-height: 130px;
+		margin-top: -30px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 70px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v3_rovena_14-_eq {
+		position: absolute;
+		width: 998.938px;
+		height: 749.204px;
+		left: -81.778px;
+		top: 0px;
+		overflow: visible;
+	}
+	#webdesign_images_v6_rovena_14-_er {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 827.13px;
+		height: 620.347px;
+		left: 9.605px;
+		top: 33.883px;
+		overflow: visible;
+	}
+	#webdesign_images_v7_rovena_14-_es {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 827.13px;
+		height: 620.347px;
+		left: -1.352px;
+		top: 42.886px;
+		overflow: visible;
+	}
+	#webdesign_images_v9_rovena_14_et {
+		position: absolute;
+		width: 987.272px;
+		height: 740.454px;
+		left: -1.352px;
+		top: 896.353px;
+		overflow: visible;
+	}
+	#Group_5 {
+		position: absolute;
+		width: 615.836px;
+		height: 110.467px;
+		left: 109.956px;
+		top: 1636.807px;
+		overflow: visible;
+	}
+	#Q__ev {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 561.634px;
+		height: 62.2017707824707px;
+		line-height: 63px;
+		margin-top: -1.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(173,255,47,1);
+	}
+	#_ew {
+		left: 29.464px;
+		top: 38.467px;
+		position: absolute;
+		overflow: visible;
+		width: 562px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -16.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+	#A_ex {
+		left: 54.836px;
+		top: 38.467px;
+		position: absolute;
+		overflow: visible;
+		width: 562px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -1.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 60px;
+		color: rgba(173,255,47,1);
+	}
+	#Where_am_I_speaking_to__each_o_ey {
+		left: 210px;
+		top: 1846.608px;
+		position: absolute;
+		overflow: visible;
+		width: 416px;
+		white-space: nowrap;
+		line-height: 40px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	#How_have_you_been__keeping_bus_ez {
+		left: 206.533px;
+		top: 2505.476px;
+		position: absolute;
+		overflow: visible;
+		width: 445px;
+		white-space: nowrap;
+		line-height: 39px;
+		margin-top: -4px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 31px;
+		color: rgba(255,255,255,1);
+	}
+	#When_the_James_Bond_people__fi_e {
+		left: 204.896px;
+		top: 3227.344px;
+		position: absolute;
+		overflow: visible;
+		width: 451px;
+		white-space: nowrap;
+		line-height: 38px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 29px;
+		color: rgba(255,255,255,1);
+	}
+	#Did_your_interest_in_directing_e {
+		left: 204.896px;
+		top: 3883.736px;
+		position: absolute;
+		overflow: visible;
+		width: 439px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v2_rovena_14-_e {
+		position: absolute;
+		width: 1160.944px;
+		height: 870.708px;
+		left: -154.89px;
+		top: 4491.483px;
+		overflow: visible;
+	}
+	#webdesign_images_v8_rovena_14-_e {
+		position: absolute;
+		width: 748.319px;
+		height: 561.24px;
+		left: 51.423px;
+		top: 4876.134px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_e {
+		position: absolute;
+		width: 1132.691px;
+		height: 926.691px;
+		left: -140.725px;
+		top: 4577.155px;
+		overflow: visible;
+	}
+	#Now_that_youre_working_on__new_e {
+		left: 204.896px;
+		top: 5559.092px;
+		position: absolute;
+		overflow: visible;
+		width: 462px;
+		white-space: nowrap;
+		line-height: 34px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 27px;
+		color: rgba(255,255,255,1);
+	}
+	#So_after_Ocean_Eyes_happens__y_e {
+		left: 204.896px;
+		top: 6179.473px;
+		position: absolute;
+		overflow: visible;
+		width: 426px;
+		white-space: nowrap;
+		line-height: 29px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 23px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v13_rovena_14_e {
+		position: absolute;
+		width: 1177.469px;
+		height: 883.102px;
+		left: -146.626px;
+		top: 6622.77px;
+		overflow: visible;
+	}
+	#webdesign_images_v5_rovena_14-_e {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 851.137px;
+		height: 638.353px;
+		left: -1.352px;
+		top: 28.973px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_fa {
+		position: absolute;
+		width: 1190.79px;
+		height: 974.224px;
+		left: -171.315px;
+		top: 28.973px;
+		overflow: visible;
+	}
+	#What_is_giving_you_hope_right__fa {
+		left: 201.622px;
+		top: 8557.872px;
+		position: absolute;
+		overflow: visible;
+		width: 414px;
+		white-space: nowrap;
+		line-height: 31px;
+		margin-top: -4.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 22px;
+		color: rgba(255,255,255,1);
+	}
+	#Your_new_song_called_My__Futur_fb {
+		left: 204.896px;
+		top: 7993.146px;
+		position: absolute;
+		overflow: visible;
+		width: 442px;
+		white-space: nowrap;
+		line-height: 36px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 29px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.1px;
+	}
+	#What_do_you_do_to_preserve__yo_fc {
+		left: 204.896px;
+		top: 7579.013px;
+		position: absolute;
+		overflow: visible;
+		width: 438px;
+		white-space: nowrap;
+		line-height: 36px;
+		margin-top: -3.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 29px;
+		color: rgba(255,255,255,1);
+	}
+	#I_had_a_dream__I_got_everythin_fd {
+		left: 243.363px;
+		top: 7022.579px;
+		position: absolute;
+		overflow: visible;
+		width: 349px;
+		white-space: nowrap;
+		line-height: 33px;
+		margin-top: -1.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(173,255,47,1);
+	}
+	#webdesign_images_v11_rovena_14_fe {
+		position: absolute;
+		width: 842.452px;
+		height: 631.839px;
+		left: -2.989px;
+		top: 9277.284px;
+		overflow: visible;
+	}
+	#webdesign_images_v12_rovena_14_ff {
+		position: absolute;
+		width: 995.228px;
+		height: 746.421px;
+		left: -187.139px;
+		top: 9593.204px;
+		overflow: visible;
+	}
+	#webdesign_images_v14_rovena_14_fg {
+		position: absolute;
+		width: 1342.249px;
+		height: 1006.687px;
+		left: -169.952px;
+		top: 9224.904px;
+		overflow: visible;
+	}
+	#And_also_young_people_A_lot_of_fh {
+		left: 204.896px;
+		top: 10407.556px;
+		position: absolute;
+		overflow: visible;
+		width: 448px;
+		white-space: nowrap;
+		line-height: 31px;
+		margin-top: -3px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 25px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v1_rovena_14-_fi {
+		position: absolute;
+		width: 838.087px;
+		height: 628.565px;
+		left: -1.352px;
+		top: 11030.57px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_fj {
+		position: absolute;
+		width: 1181.441px;
+		height: 966.575px;
+		left: -138.301px;
+		top: 11079.472px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_fk {
+		position: absolute;
+		width: 648.745px;
+		height: 530.76px;
+		left: 187.99px;
+		top: 11319.819px;
+		overflow: visible;
+	}
+	#Billie_Eilish_On_Speaking_Up_S_fl {
+		left: 210px;
+		top: 896.353px;
+		position: absolute;
+		overflow: visible;
+		width: 397px;
+		height: 212px;
+		line-height: 33px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(255,255,255,1);
+	}
+}
+@media screen and (min-width: 375px) and (max-width: 427px) {
+	.mediaViewInfo {
+		--web-view-name: iPhone 6, 7, 8, SE – 1;
+		--web-view-id: iPhone_6_7_8_SE__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#iPhone_6_7_8_SE__1 {
+		position: absolute;
+		display: block;
+		width: 375px;
+		height: 8226px;
+		background-color: rgba(0,0,0,1);
+		overflow: hidden;
+		--web-view-name: iPhone 6, 7, 8, SE – 1;
+		--web-view-id: iPhone_6_7_8_SE__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#webdesign_images_v7_rovena_14-_fo {
+		filter: blur(16.49px);
+		position: absolute;
+		width: 547.152px;
+		height: 410.364px;
+		left: -51.848px;
+		top: 1752.449px;
+		overflow: visible;
+	}
+	#BILLIE__EILISH_fp {
+		left: 64.876px;
+		top: 25.462px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		line-height: 58px;
+		margin-top: -9px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v3_rovena_14-_fq {
+		position: absolute;
+		width: 374.139px;
+		height: 280.604px;
+		left: 0.807px;
+		top: 25.462px;
+		overflow: visible;
+	}
+	#webdesign_images_v5_rovena_14-_fr {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: 13.783px;
+		top: 25.462px;
+		overflow: visible;
+	}
+	#webdesign_images_v6_rovena_14-_fs {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: 13.783px;
+		top: 25.462px;
+		overflow: visible;
+	}
+	#webdesign_images_v7_rovena_14-_ft {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 375px;
+		height: 281.25px;
+		left: 0px;
+		top: 14.879px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_fu {
+		position: absolute;
+		width: 525.396px;
+		height: 429.843px;
+		left: -68.45px;
+		top: 14px;
+		overflow: visible;
+	}
+	#Billie_Eilish_On_Speaking_Up___fv {
+		left: 111.103px;
+		top: 382.3px;
+		position: absolute;
+		overflow: visible;
+		width: 221px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v9_rovena_14_fw {
+		position: absolute;
+		width: 413.874px;
+		height: 310.406px;
+		left: 0px;
+		top: 377.131px;
+		overflow: visible;
+	}
+	#Group_6 {
+		position: absolute;
+		width: 582.141px;
+		height: 61.636px;
+		left: -103px;
+		top: 666.148px;
+		overflow: visible;
+	}
+	#Q__fy {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 556.532px;
+		height: 61.63564682006836px;
+		line-height: 63px;
+		margin-top: -17.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(173,255,47,1);
+	}
+	#_fz {
+		left: 14.787px;
+		top: 17.842px;
+		position: absolute;
+		overflow: visible;
+		width: 557px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -23.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#A_f {
+		left: 26.141px;
+		top: 18.842px;
+		position: absolute;
+		overflow: visible;
+		width: 557px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -16.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(173,255,47,1);
+	}
+	#Where_am_I_speaking_to__each_o_f {
+		left: 106.237px;
+		top: 770.766px;
+		position: absolute;
+		overflow: visible;
+		width: 148px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#How_have_you_been__keeping_bus_f {
+		left: 106.237px;
+		top: 1019.742px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#When_the_James_Bond_people__fi_f {
+		left: 106.237px;
+		top: 1295.48px;
+		position: absolute;
+		overflow: visible;
+		width: 172px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#Did_your_interest_in_directing_f {
+		left: 106.237px;
+		top: 1545.267px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v2_rovena_14-_f {
+		position: absolute;
+		width: 538.501px;
+		height: 403.876px;
+		left: -94.83px;
+		top: 1769.48px;
+		overflow: visible;
+	}
+	#webdesign_images_v8_rovena_14-_f {
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: 0.867px;
+		top: 1947.899px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_f {
+		position: absolute;
+		width: 525.396px;
+		height: 429.844px;
+		left: -88.26px;
+		top: 1809.219px;
+		overflow: visible;
+	}
+	#Now_that_youre_working_on__new_f {
+		left: 106.237px;
+		top: 2268.675px;
+		position: absolute;
+		overflow: visible;
+		width: 189px;
+		white-space: nowrap;
+		line-height: 15px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#So_after_Ocean_Eyes_happens__y_f {
+		left: 106.237px;
+		top: 2546.035px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		line-height: 13px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_giving_you_hope_right__ga {
+		left: 109.481px;
+		top: 3485.168px;
+		position: absolute;
+		overflow: visible;
+		width: 183px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Your_new_song_called_My__Futur_gb {
+		left: 109.481px;
+		top: 3262.955px;
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.1px;
+	}
+	#What_do_you_do_to_preserve__yo_gc {
+		left: 109.481px;
+		top: 3116.976px;
+		position: absolute;
+		overflow: visible;
+		width: 167px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v13_rovena_14_gd {
+		position: absolute;
+		width: 397.928px;
+		height: 298.446px;
+		left: -11.358px;
+		top: 2756.894px;
+		overflow: visible;
+	}
+	#I_had_a_dream__I_got_everythin_ge {
+		left: 87.584px;
+		top: 2899.629px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(173,255,47,1);
+	}
+	#webdesign_images_v11_rovena_14_gf {
+		position: absolute;
+		width: 380.756px;
+		height: 285.567px;
+		left: -2.964px;
+		top: 3800.478px;
+		overflow: visible;
+	}
+	#webdesign_images_v12_rovena_14_gg {
+		position: absolute;
+		width: 449.553px;
+		height: 337.165px;
+		left: -91.036px;
+		top: 3933.921px;
+		overflow: visible;
+	}
+	#webdesign_images_v14_rovena_14_gh {
+		position: absolute;
+		width: 607.312px;
+		height: 455.484px;
+		left: 26.393px;
+		top: 3779.127px;
+		overflow: visible;
+	}
+	#And_also_young_people_A_lot_of_gi {
+		left: 109.481px;
+		top: 4253.992px;
+		position: absolute;
+		overflow: visible;
+		width: 198px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v1_rovena_14-_gj {
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: 13.783px;
+		top: 4470.527px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_gk {
+		position: absolute;
+		width: 525.396px;
+		height: 429.843px;
+		left: -75.362px;
+		top: 4449.441px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_gl {
+		position: absolute;
+		width: 228.16px;
+		height: 186.666px;
+		left: 84.069px;
+		top: 4605.032px;
+		overflow: visible;
+	}
+	
+}
+@media screen and (min-width:428){
+	.mediaViewInfo {
+		--web-view-name: Samsung Galaxy S10 – 1;
+		--web-view-id: Samsung_Galaxy_S10__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	* {
+		margin: 0;
+		padding: 0;
+		box-sizing: border-box;
+		border: none;
+	}
+	#Samsung_Galaxy_S10__1 {
+		position: absolute;
+		display: block;
+		width: 360px;
+		height: 8239px;
+		background-color: rgba(0,0,0,1);
+		overflow: hidden;
+		--web-view-name: Samsung Galaxy S10 – 1;
+		--web-view-id: Samsung_Galaxy_S10__1;
+		--web-scale-on-resize: true;
+		--web-show-by-media-query: true;
+		--web-enable-deep-linking: true;
+	}
+	#webdesign_images_v7_rovena_14-_go {
+		filter: blur(16.49px);
+		position: absolute;
+		width: 547.152px;
+		height: 410.364px;
+		left: -57.848px;
+		top: 1759.911px;
+		overflow: visible;
+	}
+	#BILLIE__EILISH_gp {
+		left: 58.876px;
+		top: 32.923px;
+		position: absolute;
+		overflow: visible;
+		width: 246px;
+		white-space: nowrap;
+		line-height: 60px;
+		margin-top: -10px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 40px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v3_rovena_14-_gq {
+		position: absolute;
+		width: 374.139px;
+		height: 280.604px;
+		left: -5.193px;
+		top: 32.923px;
+		overflow: visible;
+	}
+	#webdesign_images_v5_rovena_14-_gr {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: 7.783px;
+		top: 32.923px;
+		overflow: visible;
+	}
+	#webdesign_images_v6_rovena_14-_gs {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: 7.783px;
+		top: 32.923px;
+		overflow: visible;
+	}
+	#webdesign_images_v7_rovena_14-_gt {
+		filter: blur(9.871px);
+		position: absolute;
+		width: 360px;
+		height: 270px;
+		left: 0px;
+		top: 4.09px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_gu {
+		position: absolute;
+		width: 525.396px;
+		height: 429.843px;
+		left: -74.45px;
+		top: 21.462px;
+		overflow: visible;
+	}
+	#Billie_Eilish_On_Speaking_Up___gv {
+		left: 105.103px;
+		top: 389.761px;
+		position: absolute;
+		overflow: visible;
+		width: 221px;
+		white-space: nowrap;
+		line-height: 18px;
+		margin-top: -1px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v9_rovena_14_gw {
+		position: absolute;
+		width: 413.875px;
+		height: 310.406px;
+		left: -6px;
+		top: 384.593px;
+		overflow: visible;
+	}
+	#Group_7 {
+		position: absolute;
+		width: 582.141px;
+		height: 61.636px;
+		left: -109px;
+		top: 673.61px;
+		overflow: visible;
+	}
+	#Q__gy {
+		left: 0px;
+		top: 0px;
+		position: absolute;
+		overflow: hidden;
+		width: 556.532px;
+		height: 61.63564682006836px;
+		line-height: 63px;
+		margin-top: -17.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 28px;
+		color: rgba(173,255,47,1);
+	}
+	#_gz {
+		left: 14.787px;
+		top: 17.842px;
+		position: absolute;
+		overflow: visible;
+		width: 557px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -23.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 16px;
+		color: rgba(255,255,255,1);
+	}
+	#A_g {
+		left: 26.141px;
+		top: 18.842px;
+		position: absolute;
+		overflow: visible;
+		width: 557px;
+		white-space: nowrap;
+		line-height: 63px;
+		margin-top: -16.5px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 30px;
+		color: rgba(173,255,47,1);
+	}
+	#Where_am_I_speaking_to__each_o_g {
+		left: 100.237px;
+		top: 778.228px;
+		position: absolute;
+		overflow: visible;
+		width: 148px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#How_have_you_been__keeping_bus_g {
+		left: 100.237px;
+		top: 1027.204px;
+		position: absolute;
+		overflow: visible;
+		width: 159px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#When_the_James_Bond_people__fi_g {
+		left: 100.237px;
+		top: 1302.942px;
+		position: absolute;
+		overflow: visible;
+		width: 172px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#Did_your_interest_in_directing_g {
+		left: 100.237px;
+		top: 1552.729px;
+		position: absolute;
+		overflow: visible;
+		width: 179px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#Webdesign_images_v2_rovena_14-_g {
+		position: absolute;
+		width: 538.501px;
+		height: 403.876px;
+		left: -100.83px;
+		top: 1776.941px;
+		overflow: visible;
+	}
+	#webdesign_images_v8_rovena_14-_g {
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: -5.133px;
+		top: 1955.36px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_g {
+		position: absolute;
+		width: 525.396px;
+		height: 429.844px;
+		left: -94.26px;
+		top: 1816.68px;
+		overflow: visible;
+	}
+	#Now_that_youre_working_on__new_g {
+		left: 100.237px;
+		top: 2276.136px;
+		position: absolute;
+		overflow: visible;
+		width: 189px;
+		white-space: nowrap;
+		line-height: 15px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#So_after_Ocean_Eyes_happens__y_g {
+		left: 100.237px;
+		top: 2553.497px;
+		position: absolute;
+		overflow: visible;
+		width: 186px;
+		white-space: nowrap;
+		line-height: 13px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#What_is_giving_you_hope_right__ha {
+		left: 103.481px;
+		top: 3492.63px;
+		position: absolute;
+		overflow: visible;
+		width: 183px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -2px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 10px;
+		color: rgba(255,255,255,1);
+	}
+	#Your_new_song_called_My__Futur_hb {
+		left: 103.481px;
+		top: 3270.417px;
+		position: absolute;
+		overflow: visible;
+		width: 168px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+		letter-spacing: -0.1px;
+	}
+	#What_do_you_do_to_preserve__yo_hc {
+		left: 103.481px;
+		top: 3124.438px;
+		position: absolute;
+		overflow: visible;
+		width: 167px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Libre Baskerville;
+		font-style: normal;
+		font-weight: normal;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v13_rovena_14_hd {
+		position: absolute;
+		width: 397.928px;
+		height: 298.446px;
+		left: -17.357px;
+		top: 2764.356px;
+		overflow: visible;
+	}
+	#I_had_a_dream__I_got_everythin_he {
+		left: 81.584px;
+		top: 2907.091px;
+		position: absolute;
+		overflow: visible;
+		width: 201px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1px;
+		text-align: center;
+		font-family: Bluu Next;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 12px;
+		color: rgba(173,255,47,1);
+	}
+	#webdesign_images_v11_rovena_14_hf {
+		position: absolute;
+		width: 380.756px;
+		height: 285.567px;
+		left: -8.964px;
+		top: 3807.94px;
+		overflow: visible;
+	}
+	#webdesign_images_v12_rovena_14_hg {
+		position: absolute;
+		width: 449.553px;
+		height: 337.165px;
+		left: -97.036px;
+		top: 3941.383px;
+		overflow: visible;
+	}
+	#webdesign_images_v14_rovena_14_hh {
+		position: absolute;
+		width: 607.312px;
+		height: 455.484px;
+		left: 20.394px;
+		top: 3786.589px;
+		overflow: visible;
+	}
+	#And_also_young_people_A_lot_of_hi {
+		left: 103.481px;
+		top: 4261.454px;
+		position: absolute;
+		overflow: visible;
+		width: 198px;
+		white-space: nowrap;
+		line-height: 14px;
+		margin-top: -1.5px;
+		text-align: left;
+		font-family: Archivo Narrow;
+		font-style: normal;
+		font-weight: bold;
+		font-size: 11px;
+		color: rgba(255,255,255,1);
+	}
+	#webdesign_images_v1_rovena_14-_hj {
+		position: absolute;
+		width: 347.106px;
+		height: 260.33px;
+		left: 7.783px;
+		top: 4477.989px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_hk {
+		position: absolute;
+		width: 525.396px;
+		height: 429.843px;
+		left: -81.361px;
+		top: 4456.903px;
+		overflow: visible;
+	}
+	#webdesign_images_v10_rovena_14_hl {
+		position: absolute;
+		width: 228.16px;
+		height: 186.666px;
+		left: 78.069px;
+		top: 4612.494px;
+		overflow: visible;
+	}
+}
+
